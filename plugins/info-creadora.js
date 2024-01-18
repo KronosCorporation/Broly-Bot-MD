@@ -4,13 +4,13 @@ let pp = gataImg.getRandom()
 const cat = `
 ╭ ❖ ── ✦ ── ✦ ── ❖ ──╗
 │
-│ ✥AngelPeruFachero✥ 
-│ *Wa.me/51982110760*
+│ ✥❝𝕰𝖓𝖌𝖊𝖑𓆩𓆪❞✥ 
+│ *Wa.me/595975701824*
 │
 │    
 │  
-│*GRUPO OFICIAL DE BROLYBOT*
-│*https://chat.whatsapp.com/CtuZulsXYaf25B6D8OLBgU*
+│*GRUPO OFICIAL DE BEEBOT*
+│*https://chat.whatsapp.com/I5F45X2bkJZKVitVkt2LK4*
 │
 │ANGEL-OFC - ASISTENCIA
 │*${asistencia}*
