@@ -11,8 +11,8 @@ import { watchFile, unwatchFile } from "fs"
  //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰   
   
  global.owner = [ 
- ["59176151236", '☆𝑩𝒓𝒐𝒍𝒚-𝑩𝒐𝒕☆', true], 
- ["51982110760", '𝙊𝙬𝙣𝙚𝙧', true],  
+ ["12197777157", '☆𝑩ee-𝑩𝒐𝒕☆', true], 
+ ["595975701824", '𝙊𝙬𝙣𝙚𝙧', true],  
  //["5217441745021"],  
  ["573013114854", true],  
  ["584166718372", true], 
@@ -161,13 +161,13 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = "☆𝑩𝒓𝒐𝒍𝒚-𝑩𝒐𝒕☆ : ✥𝑨𝒏𝒈𝒆𝒍𝑷𝒆𝒓𝒖𝑭𝒂𝒄𝒉𝒆𝒓𝒐✥"
-global.igfg = "☆𝔹𝕣𝕠𝕝𝕪-𝔹𝕠𝕥☆"
+global.wm = "☆𝑩ee-𝑩𝒐𝒕☆ : ✥𝑨𝒏𝒈𝒆𝒍✥"
+global.igfg = "☆𝔹ee-𝔹𝕠𝕥☆"
 global.wait = "*⌛ _Cargando | Charging..._ ▬▭▭▭▭▭▭*"
 global.waitt = "*⌛ _Cargando | Charging..._ ▬▬▭▭▭*"
 global.waittt = "*⌛ _Cargando | Charging..._ ▬▬▬▬▭▭*"
 global.waitttt = "*⌛ _Cargando | Charging..._ ▬▬▬▬▬▬▭*"
-global.nomorown = "51948273587"
+global.nomorown = "595975701824"
 global.pdoc = ["application/vnd.openxmlformats-officedocument.presentationml.presentation", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "application/vnd.openxmlformats-officedocument.wordprocessingml.document", "application/vnd.ms-excel", "application/msword", "application/pdf", "text/rtf"];
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
