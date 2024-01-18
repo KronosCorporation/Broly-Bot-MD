@@ -1,28 +1,7 @@
 let media = './media/menus/Menu2.jpg'
 let handler = async (m, { conn, command }) => {
 let fkontak = { "key": { "participants":"0@s.whatsapp.net", "remoteJid": "status@broadcast", "fromMe": false, "id": "Halo" }, "message": { "contactMessage": { "vcard": `BEGIN:VCARD\nVERSION:3.0\nN:Sy;Bot;;;\nFN:y\nitem1.TEL;waid=${m.sender.split('@')[0]}:${m.sender.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD` }}, "participant": "0@s.whatsapp.net" }
-let str = `🪁Bienvenido A Los Link de Los Grupos Del Bot BrolyBot-MD Gracias Por Usar Y Unirte Al Los Grupos Oficiales:D🌻
-
-_GRUPO l BROLY_
-https://chat.whatsapp.com/JUFI96ESVoYLEBmImN28o6
-
-_GRUPO ll BROLY_
-https://chat.whatsapp.com/EcMl1FK9sgx8tnhE91cTmF
-
-_GRUPO lll BROLY_
-https://chat.whatsapp.com/JUFI96ESVoYLEBmImN28o6
-
-_GRUPO STAFF BROLY_
-https://chat.whatsapp.com/CtuZulsXYaf25B6D8OLBgU
-
-_CANAL BROLY_
-https://whatsapp.com/channel/0029Va98AwkISTkJMjfZtZ1T
-
-_CANAL SAKURABOT_
-https://whatsapp.com/channel/0029VaHYnwaKQuJIlTFuS22l
-
-_CANAL SAKURABOT 2_
-https://whatsapp.com/channel/0029VaIg4lxInlqUNkN7A53w`
+let str = `🪁Bienvenido 
 await conn.sendFile(m.chat, media, 'gata.mp4', str, fkontak)}
 /*conn.sendHydrated(m.chat, str, `𝙂𝘼𝙏𝘼 𝘿𝙄𝙊𝙎 - 𝘼𝙎𝙄𝙎𝙏𝙀𝙉𝘾𝙄𝘼\n\n\n` + wm, media, 'https://github.com/diegojadibot/SakuraBotLite-MD', 'SakuraBotLite-MD', null, null, [
 ['𝘾𝙪𝙚𝙣𝙩𝙖𝙨 𝙊𝙛𝙞𝙘𝙞𝙖𝙡𝙚𝙨 | 𝘼𝙘𝙘𝙤𝙪𝙣𝙩𝙨 ✅', '.cuentassb'],
